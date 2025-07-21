@@ -1,6 +1,6 @@
 # employee-salary-Prediction
 # Employee Salary Data Analysis
-#https://b4568030bd1b.ngrok-free.app/
+# https://b4568030bd1b.ngrok-free.app/
 ## Overview
 This Jupyter Notebook contains an analysis of employee salary data with various attributes including years of experience, education level, job role, city, and salary. The dataset is synthetically generated for analysis purposes.
 
