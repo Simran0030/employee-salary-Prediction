@@ -3,6 +3,7 @@
 # https://b4568030bd1b.ngrok-free.app/
 ## Overview
 This Jupyter Notebook contains an analysis of employee salary data with various attributes including years of experience, education level, job role, city, and salary. The dataset is synthetically generated for analysis purposes.
+# <img width="260" height="243" alt="visualization" src="https://github.com/user-attachments/assets/4faadc7a-7d69-41b4-bd33-56166533142e" />
 
 ## Dataset Description
 The dataset includes 100 employees with the following attributes:
